@@ -7,13 +7,19 @@ An app for managing your music library. Built with Electron, Vue, Tailwind.
 
 # Project for Alpine Australia
 
+Vehicle dashboard / HVAC replacement running on custom hardware. Build with NWjs, JavaScript, Webpack.
+
 ![image](./assets/demo.gif)
 
 # Project for Visual Air
 
+Similar to Apline project
+
 ![image](./assets/va-1.gif)
 
 # Project for Frontline International
+
+Built with Flutter
 
 ![image](./assets/frontline.gif)
 
