@@ -7,7 +7,7 @@ An app for managing your music library. Built with Electron, Vue, Tailwind.
 
 # Project for Alpine Australia
 
-Vehicle dashboard / HVAC replacement running on custom hardware. Build with NWjs, JavaScript, Webpack.
+Vehicle dashboard / HVAC replacement running on custom hardware. Built with NWjs, JavaScript, Webpack.
 
 ![image](./assets/demo.gif)
 
