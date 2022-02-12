@@ -26,7 +26,7 @@ Similar to the Alpine project. Built with NWjs, JavaScript, Webpack.
 
 A prototype demonstrating the ability to remotely access oil vats. Built with Flutter.
 
-![phone](./assets/frontline.gif)
+<img src="./assets/frontline.gif" alt="" height="600"/>
 
 ## Logo redesign for company merger (Endvr && Folcik)
 
